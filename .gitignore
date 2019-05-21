@@ -106,5 +106,7 @@ venv.bak/
 # my info
 .vscode/
 
-
+MCM2019-report/
 .vscode/sftp.json
+MCM2019-report.zip
+2018_MCMProblemC_DATA/
